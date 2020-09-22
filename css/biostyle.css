@@ -1,4 +1,35 @@
+#wrapper{
+	max-width: 80%;
+	margin: 0 auto;
+}
+.s1{
+	padding:5px;
+	border:10px solid white;
+}
+.s2{
+	width:1000px;
+}
 img{
 	width:305px;
 	height:500px;
+}
+html{
+	background-color: hotpink;
+}
+p{
+	color:white;
+}
+h1{
+	color:white;
+	text-align:center;
+	font-weight:bold;
+}
+h2{
+	color:white;
+}
+a:link{
+	color:white;
+}
+a:visited{
+	color:black;
 }
