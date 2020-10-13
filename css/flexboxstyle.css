@@ -1,0 +1,38 @@
+#wrapper{
+	max-width: 90%;
+	margin:0 auto;
+}
+h1{
+	font-size: 36pt;
+}
+.flex-container1{
+	display: flex;
+	background-color:lightgrey;
+}
+.box1{
+	background-color: lightgreen;
+	width:50px;
+	padding:20px;
+	text-align: center;
+	font-size: 24pt;
+	margin:20px;
+}
+.box2{
+	background-color: lightblue;
+	width:50px;
+	padding:20px;
+	text-align: center;
+	font-size: 24pt;
+	margin:20px;
+}
+.box3{
+	background-color: lightpink;
+	width:50px;
+	padding:20px;
+	text-align: center;
+	font-size: 24pt;
+	margin:20px;
+}
+.flex-container2{
+	display:;
+}
