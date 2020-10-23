@@ -50,6 +50,9 @@ img{
 .rightfloat{
 	float:right;
 }
+a:{
+	border:white;
+}
 a:visited{
 	border:black:;
 }
